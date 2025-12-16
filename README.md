@@ -1,8 +1,3 @@
-# [Project Name]
-
-- [Name 1]
-- [Name 2]
-- [Name 3]
 
 ## Project Idea
 
@@ -104,3 +99,4 @@ All queries use proper JOIN operations with the relationship tables (painted, vi
 1. `pip install -r requirements.txt`
 2. `python setup_db.py`
 3. `streamlit run streamlit_app.py`
+
